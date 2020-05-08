@@ -1,0 +1,14 @@
+{
+  "domain": "backup_state",
+  "name": "Backup State",
+  "config_flow": true,
+  "documentation": "https://github.com/hombrelab/backup-state/",
+  "dependencies": [
+    "mqtt"
+  ],
+  "after_dependencies": [],
+  "codeowners": [
+    "@hombrelab"
+  ],
+  "requirements": []
+}
