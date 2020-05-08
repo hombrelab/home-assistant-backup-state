@@ -1,6 +1,5 @@
 {
   "name": "Backup State",
-  "content_in_root": true,
   "render_readme": true,
   "domains": "sensor",
   "home-assistant": "0.109.5",

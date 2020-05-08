@@ -6,7 +6,7 @@ DOMAIN = "backup_state"
 UUID = "f1e28691-9aa0-4b25-8350-ecf5128f8cd2"
 SW_MANUFACTURER = "Hombrelab"
 SW_NAME = "Backup State"
-SW_VERSION = "2.0.1"
+SW_VERSION = "2.0.2"
 
 # labels
 NAME = "name"
