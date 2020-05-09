@@ -1,7 +1,7 @@
-# Backup State Sensor
+# Backup State
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs) ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/hombrelab/home-assistant-backup-state) ![GitHub commit activity](https://img.shields.io/github/last-commit/hombrelab/home-assistant-backup-state) 
 
-The [backup_state](https://github.com/hombrelab/home-assistant-backup-state) custom component for [home-assistant](https://www.home-assistant.io) is created to show the status of a backup.  
+The [Backup State](https://github.com/hombrelab/home-assistant-backup-state) custom component for [home-assistant](https://www.home-assistant.io) is created to show the status of a backup.  
 But it can obviously be used for anything that you want to publish a status to home-assistant 'the easy way'...  
 ### Preparations
 I have a (backup) script running before and after a backup is made.  
