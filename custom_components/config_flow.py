@@ -1,6 +1,6 @@
-"""
-Config flow for the Backup State component.
-"""
+#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+
+# Config flow for the Backup State component.
 
 import logging
 

@@ -1,6 +1,6 @@
-"""
-Sensor for the Backup State component.
-"""
+#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+
+# Sensor for the Backup State component.
 
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.helpers.typing import HomeAssistantType

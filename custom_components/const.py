@@ -1,12 +1,12 @@
-"""
-Constants for the Backup State component
-"""
+#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+
+# Constants for the Backup State component
 
 DOMAIN = "backup_state"
 UUID = "f1e28691-9aa0-4b25-8350-ecf5128f8cd2"
 SW_MANUFACTURER = "Hombrelab"
 SW_NAME = "Backup State"
-SW_VERSION = "{{version}}"
+SW_VERSION = "2.0.006"
 
 # labels
 NAME = "name"
