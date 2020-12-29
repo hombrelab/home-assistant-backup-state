@@ -1,4 +1,4 @@
-#  Copyright (c) 2020 Hombrelab <me@hombrelab.com>
+#  Copyright (c) 2021 Hombrelab <me@hombrelab.com>
 
 # The Backup State component for Home Assistant.
 
